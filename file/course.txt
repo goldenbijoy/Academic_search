@@ -1,0 +1,10 @@
+CSE-2107 Mathematics III
+CSE-2109 Statstics
+CSE-2111 Accounting
+CSE-2112 Project
+CSE-2101 OOP
+CSE-2102 OOP Lab
+CSE-2103 Data structures
+CSE-2104 Data structures Lab
+CSE-2105 Digital Electronics
+CSE-2106 Digital Electronics Lab
